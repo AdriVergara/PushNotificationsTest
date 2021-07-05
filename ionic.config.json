@@ -1,0 +1,7 @@
+{
+  "name": "PushNotificationsTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
